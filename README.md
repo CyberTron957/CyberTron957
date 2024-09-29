@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I make cool stuff
+I make cool automation stuff
 
 
 # 💻 Tech Stack:
