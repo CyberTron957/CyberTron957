@@ -1,0 +1,131 @@
+{
+  "agent-teams": {
+    "description": "Self-hosted teams of AI agents that work 24/7, with scheduling, fault recovery, budget limits, and a live dashboard",
+    "topics": ["ai-agents", "multi-agent-systems", "agent-orchestration", "autonomous-agents", "llm", "human-in-the-loop", "self-hosted", "fastapi", "python"]
+  },
+  "viscord": {
+    "description": "Discord-style presence for VS Code: see what your GitHub friends are coding, in real time",
+    "homepage": "https://marketplace.visualstudio.com/items?itemName=CyberTron957.viscord",
+    "topics": ["vscode-extension", "presence", "websocket", "redis", "github-oauth", "real-time", "developer-tools", "typescript"]
+  },
+  "LiteNotes": {
+    "description": "Minimalist notes app with end-to-end encryption, real-time saving, and a customizable interface",
+    "topics": ["notes-app", "note-taking", "end-to-end-encryption", "minimalist", "express", "postgresql", "javascript"]
+  },
+  "VideoForge": {
+    "description": "Turn text into motion-graphics videos using LLM planning and deterministic renderers, with no multimodal models",
+    "topics": ["text-to-video", "motion-graphics", "langgraph", "fastapi", "htmx", "llm", "python"]
+  },
+  "WebGPT": {
+    "description": "AI support chatbot trained on your website, embeddable with one line, with lead capture and analytics",
+    "topics": ["chatbot", "rag", "customer-support", "fastapi", "chromadb", "groq", "gemini", "python"]
+  },
+  "Zap-Fire": {
+    "description": "Peer-to-peer file transfer in Go, with mDNS peer discovery on your local network",
+    "topics": ["p2p", "file-transfer", "libp2p", "mdns", "cli", "go"]
+  },
+  "ReddHeat": {
+    "description": "Chrome extension that finds the best day and time to post in any subreddit for maximum upvotes",
+    "topics": ["chrome-extension", "reddit", "analytics", "heatmap", "manifest-v3", "javascript"]
+  },
+  "Agentic-Brand-Manager": {
+    "description": "Multi-agent system that runs your brand, from marketing content to customer support",
+    "topics": ["multi-agent-systems", "ai-agents", "marketing-automation", "llm", "python"]
+  },
+  "chat-2-db": {
+    "description": "Ask your database questions in plain English and get answers without writing SQL",
+    "topics": ["text-to-sql", "natural-language", "database", "llm", "gemini"]
+  },
+  "Priority-Inbox": {
+    "description": "Sorts your Gmail into priority buckets you define, using an LLM to read each email",
+    "topics": ["email", "gmail-api", "email-triage", "llm", "gemini", "python"]
+  },
+  "No-cheat": {
+    "description": "Makes many versions of one exam question by changing the numbers while keeping the difficulty the same, to curb cheating",
+    "topics": ["education", "exam", "question-generation", "llm", "edtech"]
+  },
+  "Make-your-bot": {
+    "description": "SaaS platform for custom website chatbots, with hybrid search and reranking (RAG) plus admin and customer dashboards",
+    "topics": ["chatbot", "saas", "rag", "hybrid-search", "reranking", "gemini", "python"]
+  },
+  "prompt-enhancer": {
+    "description": "Chrome extension that adds an Enhance button to ChatGPT, Claude, Gemini, and DeepSeek to rewrite your prompt before you send it",
+    "topics": ["chrome-extension", "prompt-engineering", "chatgpt", "claude", "gemini"]
+  },
+  "lokkal.news": {
+    "description": "Local news platform with trending stories and push notifications, built on Next.js, Prisma, and Neon Postgres",
+    "topics": ["news", "nextjs", "typescript", "prisma", "postgresql", "push-notifications"]
+  },
+  "AI-Hiring-Agency": {
+    "description": "Resume screening pipeline where an LLM judge runs a tournament between candidates and produces an auditable shortlist",
+    "topics": ["recruiting", "resume-screening", "llm-as-judge", "fastapi", "redis", "python"]
+  },
+  "weebo": {
+    "description": "Spin up an online store in minutes, with product catalogs, order management, and PWA support (Django)",
+    "topics": ["ecommerce", "saas", "django", "pwa", "docker", "python"]
+  },
+  "IPL-Auction-game": {
+    "description": "Fantasy IPL auction game where you bid against rivals to build the best cricket squad, on web and Android",
+    "topics": ["game", "cricket", "ipl", "react", "capacitor", "typescript"]
+  },
+  "FFCS-optimal-timetable-builder": {
+    "description": "Builds clash-free course timetables for VIT's FFCS system, with instructor preferences and conflict detection",
+    "topics": ["timetable", "scheduling", "vit", "ffcs", "python"]
+  },
+  "video-to-clips": {
+    "description": "Turns long YouTube videos into short-form clips and Twitter threads with Whisper and Gemini",
+    "topics": ["content-repurposing", "youtube", "shorts", "whisper", "gemini", "python"]
+  },
+  "AI-blog-management-system": {
+    "description": "Writes SEO-friendly blog posts with AI and publishes them to your site, built as microservices",
+    "topics": ["blog", "seo", "content-generation", "microservices", "llm", "python"]
+  },
+  "youtube-chapters-generator": {
+    "description": "CLI that generates YouTube chapters for videos in any language, using Whisper and Gemini",
+    "topics": ["youtube", "chapters", "whisper", "gemini", "cli", "python"]
+  },
+  "history-summarizer": {
+    "description": "Chrome extension that summarizes your daily browsing history with Gemini, so you don't lose what you explored",
+    "topics": ["chrome-extension", "browser-history", "summarization", "gemini", "javascript"]
+  },
+  "Junk-fill": {
+    "description": "Chrome extension that fills web forms with realistic AI-generated fake data to protect your privacy",
+    "topics": ["chrome-extension", "privacy", "form-filler", "gemini", "javascript"]
+  },
+  "WebTransport-filetransfer": {
+    "description": "Fast browser-to-browser file transfer over WebTransport, with a serverless relay on Cloudflare",
+    "topics": ["webtransport", "file-transfer", "p2p", "cloudflare-workers", "javascript"]
+  },
+  "SaveDesks": {
+    "description": "Chrome extension that saves all your open tabs as a named workspace and reopens them in one click",
+    "topics": ["chrome-extension", "tabs", "productivity", "workspaces", "javascript"]
+  },
+  "Cric-sync-studio": {
+    "description": "Make cricket highlight reels that cut to the beat of your music",
+    "topics": ["video-editing", "cricket", "highlights", "beat-detection", "web-app"]
+  },
+  "Freelance-Freedom": {
+    "description": "Decentralized freelancing platform built on Ethereum smart contracts, with a Next.js frontend",
+    "topics": ["web3", "freelancing", "smart-contracts", "hardhat", "nextjs", "typescript"]
+  },
+  "Auto_code": {
+    "description": "Desktop tool that writes code for you right inside your editor, made for boring coding assignments",
+    "topics": ["code-generation", "llm", "automation", "python"]
+  },
+  "natural-language-device-automation": {
+    "description": "Browser extension that lets AI control your web browser from spoken commands",
+    "topics": ["browser-automation", "voice-control", "chrome-extension", "ai-agents", "javascript"]
+  },
+  "CodeWizard": {
+    "description": "AI coding assistant that writes code straight into files on your machine from a plain-English prompt",
+    "topics": ["code-generation", "coding-assistant", "llm", "developer-tools", "python"]
+  },
+  "CyberTron957.github.io": {
+    "description": "Personal website, hosted on GitHub Pages",
+    "topics": ["portfolio", "github-pages"]
+  },
+  "CyberTron957": {
+    "description": "My GitHub profile README, with stats refreshed daily by GitHub Actions",
+    "topics": ["github-profile", "profile-readme"]
+  }
+}
